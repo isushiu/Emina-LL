@@ -1,0 +1,50 @@
+
+
+ORDER                    #1                                     FROM CUSTOMER Aina Nafisah
+----------------------------------------------------------------------------------------------------------------------
+
+Customer Name           : Aina Nafisah
+Customer Address        : Melor 6-2, Pangsapuri Simpan Kelana Jaya, 47300, Petaling Jaya, Selangor
+Customer Phone Number   : 01268827401
+Voucher                 : NO
+Payment Method          : TRANSFER
+
+----------------------- ITEM -----------------------
+Item Code               : COM210
+Item Name               : Brighten Skin Kit
+Item Details            : COMBO
+Item Quantity           : 0
+----------------------------------------------------------------------------------------------------------------------
+ Total Price For Item                                                             RM 0.00
+ Discount                                                                         RM 0.00 (No Discount)
+ Delivery Charge                                                                  RM 8.00
+ Tax                                                                              RM 0.40
+----------------------------------------------------------------------------------------------------------------------
+
+ Total Order                                                                      RM 8.40
+----------------------------------------------------------------------------------------------------------------------
+
+
+ORDER                    #2                                     FROM CUSTOMER Raudhah Amysha
+----------------------------------------------------------------------------------------------------------------------
+
+Customer Name           : Raudhah Amysha
+Customer Address        : NO 22, Jalan Villa, Johor Bahru, Johor
+Customer Phone Number   : 01198844047
+Voucher                 : NO
+Payment Method          : TRANSFER
+
+----------------------- ITEM -----------------------
+Item Code               : COM211
+Item Name               : Bright and Acne Free Kit
+Item Details            : COMBO
+Item Quantity           : 0
+----------------------------------------------------------------------------------------------------------------------
+ Total Price For Item                                                             RM 0.00
+ Discount                                                                         RM 0.00 (No Discount)
+ Delivery Charge                                                                  RM 8.00
+ Tax                                                                              RM 0.40
+----------------------------------------------------------------------------------------------------------------------
+
+ Total Order                                                                      RM 8.40
+----------------------------------------------------------------------------------------------------------------------

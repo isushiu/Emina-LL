@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Node
+comment1.params=c
+comment1.target=Node(Customer)
+comment2.params=c\ nextNode
+comment2.target=Node(Customer,\ Node)
+comment3.params=
+comment3.target=Customer\ getCustomer()
+comment4.params=
+comment4.target=Node\ getLink()
+numComments=5

@@ -1,0 +1,40 @@
+Nur Afina Zamzure;NO 3, Lorong Geliga, Bandar Mas, Johor;01159390334;NO;TRANSFER;COS101;Mascara;COSMETIC;5
+Aisyah Zamzure;NO 8, SS 6/12, Taman Sri Saujana, Johor;0137347020;VC010;COD;COM210;Brighten Skin Kit;COMBO;2
+Arif Nazren;NO 9, Taman Kota Jaya, Kota Tinggi, Johor;0117300271;NO;TRANSFER;SKI012;Moisturizing Cream;SKINCARE;3
+Huda Filzah;NO 231, Jalan TuanSeh, Taman Sedili, Johor;01124252563;FS045;TRANSFER;SKI011;Face Wash;SKINCARE;0
+Nur Syafiatun Nadhirah Azman;NO 21, Taman Johor Jaya, Johor Bahru;0138842610;VC010;TRANSFER;COS105;Eye Shadow;COSMETIC;6
+Nur Hamidah;NO 13, Jalan Anggur, Bandar Baru Uda, Johor;0125576320;NO;COD;COM213;Bright Stuff Skincare Kit;COMBO;2
+Hasanatun Nasuha;NO 9, Taman Bukit Dahlia, Johor;0142357748;VC010;TRANSFER;COS102;Cream Blush;COSMETIC;2
+Izzah Atirah;NO 412, Taman Scientex, Pasir Gudang, Johor;0142637745;VC010;TRANSFER;COM211;Bright and Acne Free Kit;COMBO;2
+Alzianah Hamid;No 91, Desaru, Bandar Penawar, Johor;01125748863;NO;TRANSFER;SKI011;Face Wash;SKINCARE;5
+Nurin Khairunnisa;No 211, Chaah, Segamat, Johor;0137300161;NO;TRANSFER;SKI013;Face Toner;SKINCARE;6
+Saiful Azri;No 9, Taman Rinting, Pasir Gudang, Johor;0194465243;NO;COD;COM211;Bright and Acne Free Kit;COMBO;5
+Damia Rizal;No 87, Lorong Indah, Nusajaya, Gelang Patah, Johor;0134468100;NO;TRANSFER;COS103;Lip Cream;COSMETIC;2
+Nur Aina Natasha;No 101, Taman Kempas, Johor Bahru, Johor;0193745567;VC010;TRANSFER;COM213;Bright Stuff Skincare;COMBO;4
+Farhana Karmila Azmi;No 20, Lorong Pisan, Taman Kota Jaya, Johor;0124697241;NO;TRANSFER;COS105;Eye Shadow;COSMETIC;2
+Sarra Afiqah;NO 987, Blok Mutiara, Shah Alam, Selangor;01135191151;NO;TRANSFER;SKI010;Loose Powder;SKINCARE;2
+Aliyah Harun;No 2, ss 2/6 Taman Seri Saujana, Johor Bahru, Johor;0137398020;VC010;TRANSFER;SKI013;Face Toner;SKINCARE;2
+Aina Nafisah;Melor 6-2, Pangsapuri Simpan Kelana Jaya, 47300, Petaling Jaya, Selangor;01268827401;NO;TRANSFER;COM210;Brighten Skin Kit;COMBO;0
+Irdina Khir;No 42, Taman Pelangi Utama, Klang, Selangor;01173015741;NO;TRANSFER;COS103;Lip Cream;COSMETIC;3
+Aiman Shaffrie;Blok Taming Sari, UiTM Segamat, Johor;01160510105;NO;TRANSFER;COM210;Brighten Skin Kit;COMBO;1
+Farah Batrisyia;NO 9, Jalan Mutiara, Kempas, Johor;0177327103;VC010;TRANSFER;COM212;Glow Up Kit;COMBO;2
+Aina Syafiqah;NO 12, Jalan Sayong, Kulai, Johor;0173510507;NO;TRANSFER;SKI012;Moisturizing Cream;SKINCARE;6
+Adli Hamka;No 4, Jln Kota Bahru, Kelantan;01111361053;NO;TRANSFER;SKI011;Face Wash;SKINCARE;2
+Hazirah Zulkeri;No 412, Petri Jaya, Kota Tinggi, Johor;0167685156;NO;TRANSFER;COM212;Glow Up Kit;COMBO;3
+Irfan Ahmad Hamid;No 216, Jalan Ciku, Taman Kota Jaya, Johor;01135192314;NO;TRANSFER;COS105;Eye Shadow;COSMETIC;6
+Zuraini Amin;No 7, Taman Pesak, Sungai Tiram, Johor;0107125237;VC010;TRANSFER;SKI013;Face Toner;SKINCARE;3
+Yasmien Qisthena;Blok Dahlia, UiTM Dengkil, Selangor;0187776315;FS045;TRANSFER;COS105;Eye Shadow;COSMETIC;2
+Ayuni Khalid;No 521, Jalan Sungai Telor, Selangor;01140037032;NO;TRANSFER;COM213;Bright Stuff Skincare;COMBO;3
+Alliesa Umairah;No 40, Jalan 4/19, Seksyen 4, Bandar Baru Sungai Long, Kajang, Selangor;0126015138;FS045;TRANSFER;COS102;Cream Blush;COSMETIC;2
+Khairul Amni;NO 28, Jalan 3/16, Seksyen 3, Bandar Baru Bangi, Selangor;01127748774;NO;TRANSFER;SKI011;Face Wash;SKINCARE;3
+Saveena Seri;Lot 115, Jalan Panjang Boh, Kampung Pasir Salak, Perak;0132117798;NO;TRANSFER;COS103;Lip Cream;COSMETIC;5
+Asyikin Azam;NO 10, Jalan SS 7/12, Taman Sri Saujana, Kota Tinggi, Johor;01160540983;VC010;TRANSFER;COM211;Bright and Acne Free Kit;COMBO;2
+Nur Sakinah;no 14, Jalan Kemboja, Selangor;0192346678;NO;COD;SKI013;Face Toner;SKINCARE;5
+Yuna Salim;NO 152, Jalan Jaya, Johor Bahru, Johor;0122349674;FS045;TRANSFER;COM213;Bright Stuff Skincare Kit;COMBO;2
+Raudhah Amysha;NO 22, Jalan Villa, Johor Bahru, Johor;01198844047;NO;TRANSFER;COM211;Bright and Acne Free Kit;COMBO;0
+Erfan fikri;No 127, Taman Daiman, Kota Bahru, Kelantan;0109343634;FS045;COD;SKI011;Face Wash;SKINCARE;7
+Irdina Syakirah;Lot PTD 184, Tanjung Belungkor, Tanjung Surat, Kota Tinggi, Johor;0172567114;NO;TRANSFER;COS103;Lip Cream;COSMETIC;2
+Syafiqah Nathasa;No 23, Jalan Tun Hussein, PRESINT 2, 62100, Putrajaya;01111965513;VC010;TRANSFER;SKI010;Loose Powder;SKINCARE;4
+Maisarah Nasuha;NO 13, Lorong 4, KG. Attaduri, 36700, Langkap, Perak;01128739625;NO;TRANSFER;COM213;Bright Stuff Skincare Kit;COMBO;2
+Filzah Syaffiq;LOT 123 KG. Aman, Rantau Panjang;01123757674;NO;TRANSFER;COS103;Lip Cream;COSMETIC;2
+Zaim Haniff;No 7, Jalan Kuntum, Bandar Mutiara, Selangor;0146674261;FS045;TRANSFER;COM213;Bright Stuff Skincare Kit;COMBO;2
